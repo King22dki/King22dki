@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Daniel King</h1>
-## Welcome
-![Welcome Banner](Queryous2.GIF)
-<h3>.</h3>
+<h2>Daniel King: Chemical Engineer by Day, AI Democratizer by Night</h2>
+  
+<h3>
+Curious autodidact with a background in Chemical Engineering. Passionate about applying mathematics, neuroscience, and probability theory to understand Artificial Intelligence. Works as an engineering lecturer by day and explores the fascinating world of AI in his free time. Co-founded Queryous (https://queryous.ai/), a company focused on making AI accessible to the layman.</h3>
 
 - 🔭 I’m currently working on **Text Classification**
 
