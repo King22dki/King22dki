@@ -5,11 +5,10 @@
 <h3 align="center">
 Curious autodidact with a background in Chemical Engineering. Passionate about applying mathematics, neuroscience, and probability theory to understand Artificial Intelligence. Works as an engineering lecturer by day and explores the fascinating world of AI in his free time. Co-founded <a href="https://queryous.ai/">Queryous</a>, a company focused on making AI accessible to the layman.</h3>
 
-<p align="left"> <a href="https://twitter.com/king22dki" target="blank"><img src="https://img.shields.io/twitter/follow/king22dki?logo=twitter&style=for-the-badge" alt="king22dki" /></a> 
-  
-
 <p align="left">
-<a href="https://twitter.com/king22dki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="king22dki" height="30" width="40" /></a>
+  <a href="https://twitter.com/king22dki" target="blank">
+    <img src="https://img.shields.io/twitter/follow/king22dki?logo=twitter&style=for-the-badge" alt="Follow king22dki on Twitter" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
