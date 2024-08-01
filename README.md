@@ -4,10 +4,6 @@
 <h3 align="center">
 Curious autodidact with a background in Chemical Engineering. Passionate about applying mathematics, neuroscience, and probability theory to understand Artificial Intelligence. Works as an engineering lecturer by day and explores the fascinating world of AI in his free time. Co-founded <a href="https://queryous.ai/">Queryous</a>, a company focused on making AI accessible to the layman.</h3>
 
-- 🔭 I’m currently working on **Text Classification**
-
-- 🌱 I’m currently learning **Pytorch**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/king22dki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="king22dki" height="30" width="40" /></a>
