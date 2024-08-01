@@ -2,7 +2,7 @@
 <h2 align="center">Daniel King: Chemical Engineer by Day, AI Democratizer by Night</h2>
   
 <h3 align="center">
-Curious autodidact with a background in Chemical Engineering. Passionate about applying mathematics, neuroscience, and probability theory to understand Artificial Intelligence. Works as an engineering lecturer by day and explores the fascinating world of AI in his free time. Co-founded Queryous <a href="https://queryous.ai/">Queryous</a>, a company focused on making AI accessible to the layman.</h3>
+Curious autodidact with a background in Chemical Engineering. Passionate about applying mathematics, neuroscience, and probability theory to understand Artificial Intelligence. Works as an engineering lecturer by day and explores the fascinating world of AI in his free time. Co-founded <a href="https://queryous.ai/">Queryous</a>, a company focused on making AI accessible to the layman.</h3>
 
 - 🔭 I’m currently working on **Text Classification**
 
