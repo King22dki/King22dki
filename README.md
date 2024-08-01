@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Daniel King</h1>
-<img align="center"https://hellofuture.orange.com/app/uploads/2018/01/Intro-HELLO-FUTURE-1920x1080_v2.gif>
+<img src="https://hellofuture.orange.com/app/uploads/2018/01/Intro-HELLO-FUTURE-1920x1080_v2.gif" alt="Banner Image">
 <h2 align="center">Daniel King: Chemical Engineer by Day, AI Democratizer by Night</h2>
   
 <h3 align="center">
