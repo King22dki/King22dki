@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Daniel King</h1>
-<h3>Hi, I’m Daniel King, an autodidact with a background in Chemical Engineering. By day, I work as an engineering lecturer, and in my free time, I dive into a wide range of subjects, including mathematics, chemistry, neuroscience, physics, and philosophy. My explorations have led me into the field of probability theory, where I work with higher-dimensional spaces and their interactions to better understand artificial intelligence. I’m continuously exploring new areas within these domains, and I enjoy reading, writing, and attending seminars to deepen my knowledge. I also co-founded a company called Queryous with some friends, which you can learn more about here. This website is a space to share my work, thoughts, and ongoing projects. Feel free to reach out if you’d like to connect! Connect with me on LinkedIn or follow me on Twitter.</h3>
+## Welcome
+![Welcome Banner](Queryous2.GIF)
+<h3>.</h3>
 
 - 🔭 I’m currently working on **Text Classification**
 
