@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Daniel King</h1>
 <img src="https://hellofuture.orange.com/app/uploads/2018/01/Intro-HELLO-FUTURE-1920x1080_v2.gif" alt="Banner Image">
-<h2 align="center">Daniel King: Engineer Lecturer by Day, AI Democratizer by Night</h2>
+<h2 align="center">Daniel King: Engineer Lecturer by Day, AI Democratiser by Night</h2>
   
 <h3 align="center">
 Curious autodidact with a background in Chemical Engineering. Passionate about applying mathematics, neuroscience, and probability theory to understand Artificial Intelligence. Works as an engineering lecturer by day and explores the fascinating world of AI in his free time. Co-founded <a href="https://queryous.ai/">Queryous</a>, a company focused on making AI accessible to the layman.</h3>
